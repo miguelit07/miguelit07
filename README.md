@@ -1,4 +1,5 @@
-### Hi there 👋
+I’m a Computer Science & Media Arts student at Northeastern University passionate about front-end development, UI/UX design, and bridging the gap between technology and design. My projects span a wide range of interests, from developing interactive applications to creating meaningful user experiences.
+
 Pronouns: he/him
 
 <!--
